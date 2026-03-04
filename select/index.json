@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Kissing the machine",
+  "base_artist": "minami",
+  "createdAt": "2026-03-04T17:53:21.925056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kissing the Machine",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/01_Kissing_the_Machine_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kissing the Machine",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": false,
+      "path": "select/02_Kissing_the_Machine_Orchestral_Manoeuvres_In_The_Dark.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kissing the Machine",
+      "artist": "Elektric Music",
+      "has_synced": false,
+      "path": "select/03_Kissing_the_Machine_Elektric_Music.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kissing The Machine",
+      "artist": "OMD",
+      "has_synced": true,
+      "path": "select/04_Kissing_The_Machine_OMD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kissing the Machine",
+      "artist": "Orchestral Manoeuvres In The Dark (OMD)",
+      "has_synced": true,
+      "path": "select/05_Kissing_the_Machine_Orchestral_Manoeuvres_In_The_Dark_(OMD).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kissing The Machine",
+      "artist": "Orchestral Manoeuvers In The Dark",
+      "has_synced": true,
+      "path": "select/06_Kissing_The_Machine_Orchestral_Manoeuvers_In_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kissing the machine",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/07_Kissing_the_machine_美波.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kissing the machine (Paused)",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/08_Kissing_the_machine_(Paused)_美波.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kissing the machine",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_01_Kissing_the_machine_美波.txt"
+    }
+  ]
+}
